@@ -37,6 +37,7 @@ Verbose prints much more data about what progression keys are being considered a
 Todo: complete this
 
 |Short| Desc |
+|----|----|
 |`_SWITCH`| A switch |
 |`_DEAD` | Flag for each boss |
 |`RR`|Reflection Ray|
