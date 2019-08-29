@@ -31,3 +31,21 @@ Castle has 334 nodes
 ```
 
 Verbose prints much more data about what progression keys are being considered and what nodes are visited in what order.
+
+# Naming scheme:
+
+Todo: complete this
+
+|Short| Desc |
+|`_SWITCH`| A switch |
+|`_DEAD` | Flag for each boss |
+|`RR`|Reflection Ray|
+|`DS`|Dimension Shift|
+|`DJ`|Double Jump|
+|`INV`|Invert|
+|`HJ`|High Jump|
+|`AS`|Aqua Streaom|
+|`SWIM`|Deep Sinker|
+|`AP`|Aegis Plate|
+|`ACC`|Accelerator|
+|`CW`|Craftwork|
